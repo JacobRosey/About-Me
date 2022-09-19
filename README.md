@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JacobRosey
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently working on personal projects
+- 🌱 I’m currently looking for work
 - 📫 How to reach me: jrosey77@gmail.com
 
 <!---
